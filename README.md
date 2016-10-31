@@ -13,5 +13,5 @@ Make a change on github.
 
 blablabla...
 
-Monday it is.
+Today is Monday.
 
